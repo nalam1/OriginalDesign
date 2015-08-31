@@ -7,10 +7,6 @@ frameRate(600);
 void draw()
 {
 
-	fill(0,0,0);
-	textSize(30);
-text("Draw the wings on the butterfly",200,25);
-
 noStroke();
 
 	fill(random(0,0),random(0,100),random(0,100));
